@@ -5,7 +5,7 @@ Here's some games I wrote on the Rune (https://rune.ai) platform because its int
 * Dungeons of Glee - https://github.com/kevglass/rune-dungeonofglee
 * Go Dungeon Go - https://github.com/kevglass/rune-godungeongo
 * Boing Boing - https://github.com/kevglass/rune-boingboing
-* (In Progress) Scorched Turf - https://github.com/kevglass/rune-scorchedturf
+* Scorched Turf - https://github.com/kevglass/rune-scorchedturf
 
 The later games use some common code that I've put together, TOGL - Tiny Open Game Library
 
