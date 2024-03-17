@@ -6,6 +6,7 @@ Here's some games I wrote on the Rune (https://rune.ai) platform because its int
 * Go Dungeon Go - https://github.com/kevglass/rune-godungeongo
 * Boing Boing - https://github.com/kevglass/rune-boingboing
 * Scorched Turf - https://github.com/kevglass/rune-scorchedturf
+* Flick Footie - https://github.com/kevglass/rune-flickfootie
 
 The later games use some common code that I've put together, TOGL - Tiny Open Game Library
 
