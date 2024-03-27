@@ -13,3 +13,5 @@ The later games use some common code that I've put together, TOGL - Tiny Open Ga
 * TOGL - https://github.com/kevglass/togl
 
 The sources for the games assume you've cloned TOGL in the same directory as you cloned the game. So, the package.json path to the local module as `../togl`
+
+_All game assets are licensed for use in these projects. They remain copyright of their authors._
