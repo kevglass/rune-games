@@ -2,7 +2,7 @@
 
 Here's some games I wrote on the Rune (https://rune.ai) platform because its interesting and fun. They're not examples of stellar coding, but get to the point quick with simple fun controls.
 
-* Dungeons of Glee - https://github.com/kevglass/rune-dungeonofglee
+* Dungeons of Glee - https://github.com/kevglass/rune-dungeonsofglee
 * Go Dungeon Go - https://github.com/kevglass/rune-godungeongo
 * Boing Boing - https://github.com/kevglass/rune-boingboing
 * Scorched Turf - https://github.com/kevglass/rune-scorchedturf
