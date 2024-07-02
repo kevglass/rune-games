@@ -26,4 +26,5 @@ _All game assets are licensed for use in these projects. They remain copyright o
 <img src="https://github.com/kevglass/dusk-flickfootie/assets/3787210/f9c31e05-869d-4bfc-84a6-653b44a95e24" width="200">
 <img src="https://github.com/kevglass/dusk-dinodash/assets/3787210/38a82c94-2ec5-498f-9bf8-3f2fcb1c6d71" width="200">
 <img src="https://github.com/kevglass/dusk-shooter/assets/3787210/5bdfdbce-892f-4829-972f-537c7bc59b99" width="200">
-<img src="https://github.com/kevglass/dusk-quiz/assets/3787210/657428c0-8fd8-417b-abb1-e4ed0a2ee7d9" width="200">
+<img src="https://github.com/kevglass/dusk-games/assets/3787210/6f3652b2-93bc-49bc-96d4-c68971af2e8f" width="200">
+
