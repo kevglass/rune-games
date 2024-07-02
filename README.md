@@ -1,6 +1,6 @@
 # Coke and Code Dusk Games
 
-Here's some games I wrote on the Dusk (https://dusk.gg) platform because its interesting and fun. They're not examples of stellar coding, but get to the point quick with simple fun controls.
+Here's some games I wrote on the Dusk (https://developers.dusk.gg) platform because its interesting and fun. They're not examples of stellar coding, but get to the point quick with simple fun controls.
 
 * Dungeons of Glee - https://github.com/kevglass/dusk-dungeonsofglee
 * Go Dungeon Go - https://github.com/kevglass/dusk-godungeongo
