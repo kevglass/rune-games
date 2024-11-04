@@ -10,6 +10,7 @@ Here's some games I wrote on the rune (https://developers.rune.ai) platform beca
 * Dino Dash - https://github.com/kevglass/rune-dinodash
 * Star Chaser - https://github.com/kevglass/rune-shooter
 * Quiz Game - https://github.com/kevglass/rune-quiz
+* Pool Game - https://github.com/kevglass/rune-pool
 
 The later games use some common code that I've put together, TOGL - Tiny Open Game Library
 
